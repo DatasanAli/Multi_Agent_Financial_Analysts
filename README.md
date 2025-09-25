@@ -9,7 +9,7 @@ This project implements a multi-agent system for financial analysis that goes be
 - **Intelligent Task Routing**: Agents automatically route tasks to specialized components
 - **Self-Critique and Improvement**: Agents can evaluate their own performance and iterate
 - **Real-time Market Analysis**: Parse news, earnings, and market signals at scale
-- **Multi-Agent Coordination**: Specialized agents work together on complex financial tasks
+- **Multi-Agent Coordination**: Specialized agents work together on complex financial reasoning
 
 ## Architecture
 

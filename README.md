@@ -23,12 +23,12 @@ The system consists of several specialized agents:
 
 ## Features
 
-- 📊 Real-time market data processing
-- 📰 News sentiment analysis
-- 📈 Technical and fundamental analysis
-- ⚠️ Risk assessment and monitoring
-- 🤖 Autonomous decision making
-- 📋 Performance tracking and reporting
+- Real-time market data processing
+- News sentiment analysis
+- Technical and fundamental analysis
+- Risk assessment and monitoring
+- Autonomous decision making
+- Performance tracking and reporting
 
 ## Quick Start
 
@@ -60,7 +60,3 @@ financial-ai-system/
 ## Contributing
 
 This is a group project. Please follow the established coding standards and document your changes.
-
-## License
-
-MIT License - see LICENSE file for details

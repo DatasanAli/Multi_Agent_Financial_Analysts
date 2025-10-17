@@ -1,0 +1,5 @@
+jupyter nbconvert --to pdf your_jupyter_notebook.ipynb
+jupyter nbconvert --to PDFviaHTML your_notebook.ipynb
+jupyter nbconvert --to html Gregory-Bauer_AAI-520_Assignment-5.1.ipynb
+jupyter nbconvert --to pdf --template classic Gregory-Bauer_AAI-520_Assignment-5.1.ipynb
+
